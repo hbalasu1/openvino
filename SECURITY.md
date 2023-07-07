@@ -1,5 +1,7 @@
 # Security Policy
 
+Intel is committed to rapidly addressing security vulnerabilities affecting our customers and providing clear guidance on the solution, impact, severity, and mitigation.
+
 ## Report a Vulnerability
 
 Please report security issues or vulnerabilities to the [Intel® Security Center].
