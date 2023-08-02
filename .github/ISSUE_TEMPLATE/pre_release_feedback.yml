@@ -2,8 +2,6 @@ name: Pre-release Feedback
 description: Feedback on Pre-release OpenVINO 
 title: "[Pre-Release Feedback]:"
 labels: ["Pre-release", "support_request"]
-assignees:
-  - octocat
 body:
   - type: input
     id: pre_version
